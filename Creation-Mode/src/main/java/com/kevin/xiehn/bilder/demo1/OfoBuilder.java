@@ -15,7 +15,7 @@ public class OfoBuilder extends Builder{
     @Override
     public void createSeat() {
         bike.setSeat("ofo座椅");
-        System.out.println("第一次测试");
+        System.out.println("第二次测试");
     }
 
     @Override
